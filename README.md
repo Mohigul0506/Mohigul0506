@@ -1,6 +1,7 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Mohigul]! 👋
 
-![Banner Image](<img width="1536" height="1024" alt="Copilot_20260924_085454" src="https://github.com/user-attachments/assets/181a43f9-0fb9-4753-94f8-c2dd53771159" />
+![Banner Image](<img width="1536" height="1024" alt="mohigul png" src="https://github.com/user-attachments/assets/dbf502ca-9e9e-4dcb-a658-29e725dbc0f5" />
+
 )
 
 ## About Me 🚀
@@ -20,7 +21,7 @@ I'm a passionate **[Full Stack Developer]** with experience in **[HTML, CSS, Jav
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+
 
 
 
