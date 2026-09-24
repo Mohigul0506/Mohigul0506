@@ -1,8 +1,6 @@
 # Hi there, I'm [Mohigul]! 👋
 
-![Banner Image](<img width="1536" height="1024" alt="mohigul png" src="https://github.com/user-attachments/assets/dbf502ca-9e9e-4dcb-a658-29e725dbc0f5" />
-
-)
+<img width="1536" height="1024" alt="mohigul png" src="https://github.com/user-attachments/assets/dbf502ca-9e9e-4dcb-a658-29e725dbc0f5" />
 
 ## About Me 🚀
 
@@ -26,6 +24,6 @@ I'm a passionate **[Full Stack Developer]** with experience in **[HTML, CSS, Jav
 
 
 ## Get in Touch 📬
-- **[Gmail]**(axmadovamohigul50@gmail.com)
+axmadovamohigul50@gmail.com
 
 
